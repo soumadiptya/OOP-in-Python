@@ -18,6 +18,7 @@ emp_1 = Employee('Soumadiptya', 'Chakraborty', 50000)
 
 # Print results
 print(emp_1.fname, emp_1.email)
+print(emp_1.lname)
 
 # Using methods
 print(emp_1.fullname())
